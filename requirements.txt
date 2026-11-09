@@ -1,0 +1,5 @@
+discord.py
+python-dotenv
+pillow
+arabic-reshaper
+python-bidi
